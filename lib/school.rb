@@ -15,8 +15,6 @@ def add_student (name, grade)
   school.add_student("Kelly Kapowski", 10)
   school.add_student("Screech", 11)
 
-def grade (num)
-
 def grade(num)
   school.sort_by do |grade|
   name = "Zach Morris", grade = 9 
